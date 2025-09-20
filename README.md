@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard - MS Excel Project
+# Ferns & Petals Sales Analysis Dashboard (MS Excel)
 
 ## 📊 Project Overview
 This project is a **Sales Analysis Dashboard** created using **Microsoft Excel**.  
